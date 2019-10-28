@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="djdisodo/android_device_leeco_s2-1.git" path="device/leeco/s2" remote="github" revision="lineage-17.0" />
+  <project name="djdisodo/android_kernel_leeco_msm8976" path="kernel/leeco/msm8976" remote="github" revision="lineage-17.0" />
+  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-17.0" />
+  <project name="LineageOS/android_device_qcom_sepolicy" path="device/qcom/sepolicy-legacy" remote="github" revision="lineage-17.0" />
+  <project name="djdisodo/proprietary_vendor_leeco" path="vendor/leeco" remote="github" revision="lineage-17.0" />
+  <project name="djdisodo/android_hardware_qcom_media" path="hardware/qcom-caf/msm8952" remote="github" revision="lineage-17.0-caf-msm8952" />
+</manifest>
